@@ -15,10 +15,10 @@ Visualize [Wiki: Maze Generation Algorithm](https://en.wikipedia.org/wiki/Maze_g
 
 2. Kruskal's
 <p align="center">
-  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/Kruskal.py" width="500"/>
+  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/Kruskal.gif" width="500"/>
 </p>
 
 3. Prim's
 <p align="center">
-  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/Prim.py" width="500"/>
+  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/Prim.gif" width="500"/>
 </p>
