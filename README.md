@@ -10,15 +10,15 @@ Visualize [Wiki: Maze Generation Algorithm](https://en.wikipedia.org/wiki/Maze_g
 ## Output
 1. Depth First Search
 <p align="center">
-  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/DFS.gif" width="600"/>
+  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/DFS.gif" width="500"/>
 </p>
 
 2. Kruskal's
 <p align="center">
-  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/Kruskal.py" width="600"/>
+  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/Kruskal.py" width="500"/>
 </p>
 
 3. Prim's
 <p align="center">
-  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/Prim.py" width="600"/>
+  <img src="https://github.com/yixiaowang2001/maze_generation/blob/main/gif/Prim.py" width="500"/>
 </p>
